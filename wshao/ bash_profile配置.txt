@@ -1,0 +1,3 @@
+# Add environment variable SKYNET_ROOT for skynet
+export SKYNET_ROOT=/Developer/skynet
+export PATH=$SKYNET_ROOT:$PATH
